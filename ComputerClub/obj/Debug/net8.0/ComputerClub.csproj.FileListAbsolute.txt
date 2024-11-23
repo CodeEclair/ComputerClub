@@ -1,0 +1,14 @@
+/Users/photoeclair/RiderProjects/ComputerClub/ComputerClub/bin/Debug/net8.0/ComputerClub
+/Users/photoeclair/RiderProjects/ComputerClub/ComputerClub/bin/Debug/net8.0/ComputerClub.deps.json
+/Users/photoeclair/RiderProjects/ComputerClub/ComputerClub/bin/Debug/net8.0/ComputerClub.runtimeconfig.json
+/Users/photoeclair/RiderProjects/ComputerClub/ComputerClub/bin/Debug/net8.0/ComputerClub.dll
+/Users/photoeclair/RiderProjects/ComputerClub/ComputerClub/bin/Debug/net8.0/ComputerClub.pdb
+/Users/photoeclair/RiderProjects/ComputerClub/ComputerClub/obj/Debug/net8.0/ComputerClub.GeneratedMSBuildEditorConfig.editorconfig
+/Users/photoeclair/RiderProjects/ComputerClub/ComputerClub/obj/Debug/net8.0/ComputerClub.AssemblyInfoInputs.cache
+/Users/photoeclair/RiderProjects/ComputerClub/ComputerClub/obj/Debug/net8.0/ComputerClub.AssemblyInfo.cs
+/Users/photoeclair/RiderProjects/ComputerClub/ComputerClub/obj/Debug/net8.0/ComputerClub.csproj.CoreCompileInputs.cache
+/Users/photoeclair/RiderProjects/ComputerClub/ComputerClub/obj/Debug/net8.0/ComputerClub.dll
+/Users/photoeclair/RiderProjects/ComputerClub/ComputerClub/obj/Debug/net8.0/refint/ComputerClub.dll
+/Users/photoeclair/RiderProjects/ComputerClub/ComputerClub/obj/Debug/net8.0/ComputerClub.pdb
+/Users/photoeclair/RiderProjects/ComputerClub/ComputerClub/obj/Debug/net8.0/ComputerClub.genruntimeconfig.cache
+/Users/photoeclair/RiderProjects/ComputerClub/ComputerClub/obj/Debug/net8.0/ref/ComputerClub.dll
